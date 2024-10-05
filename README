@@ -1,0 +1,14 @@
+echo "# casios" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:renatoroberto25/casios.git
+git push -u origin main
+
+Vou tentar criar várias rotas num flask do python3.11
+usanto html e css para replicar relógios casio 
+
+
+ssh-keygen -t rsa -f ~/.ssh/id_rsa_casios
+
