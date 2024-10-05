@@ -10,5 +10,5 @@ Vou tentar criar várias rotas num flask do python3.11
 usanto html e css para replicar relógios casio 
 
 
-ssh-keygen -t rsa -f ~/.ssh/id_rsa_casios
+ssh-keygen -t rsa -b 4096 -C "renatoroberto25@yahoo.com.br" -f ~/.ssh/id_rsa_casios
 
